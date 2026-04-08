@@ -1,0 +1,118 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: floralwhite;
+    text-shadow: 2px 2px 4px wheat;
+    text-align: center;
+    font-size: 70px;
+}
+
+header{
+    text-align: center;
+    padding: 20px;
+}
+
+body{
+    color: antiquewhite; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+.slogan{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+.enlaces a{
+    justify-content: center;
+    gap: 40px;
+    font-family: Verdana,sans-serif;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+table th, table td{
+text-align: center;
+padding: 10px;
+
+}
+
+#sobre Nosotros{
+    text-align: center;
+    font-family: Georgia;
+    background-color: pink;
+}
+
+i{
+    background-color: rgb(154, 36, 154);
+}
+
+h2{
+    font-size: 40px;
+    font-weight: 100;
+    color: rgb(147, 87, 204);
+}
+
+.galeria img{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 50%;
+    border-radius: 8px;
+    gap: 15pxs;
+    object-fit: cover;
+    height: 220px;
+}
+
+footer{
+    text-align:center ;
+    padding: 15px;
+}
+
+
+#titulo{
+    text-align: justify;
+    text-decoration: aliceblue;
+    color: mediumorchid;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+}
+
+#formulario{
+    align-items: center;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    text-shadow: 2px 2px 4px rgb(137, 29, 137);
+    
+}
+
+#promos{
+    font-size: 50%;
+    text-align: center ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: rgb(177, 144, 210);
+}
+
+.sarai{
+    color: rgb(152, 89, 210);
+    font-size: 40px;
+    font-family: 'Gill Sans MT';
+    text-align: center;
+}
+
+b{
+ font-family: Georgia;   
+}
+
+
+#contactos a{
+    color: aliceblue;
+}
+
+h3{
+    color: rgb(133, 91, 172);
+}
+
+#alexa{background-color: rgb(100, 63, 134);}
